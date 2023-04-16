@@ -1,0 +1,1 @@
+a copy of [Dive into Deep Learning](https://d2l.ai) jupyter version, with some of my own notes
